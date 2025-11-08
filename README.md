@@ -91,9 +91,9 @@ Average Rating = AVERAGE(fact_bookings[ratings_given])
 
 ## 🔗 Project Links
 
-- 🎥 **Demo Video:** [YouTube Presentation](#)   
+- 🎥 **Demo Video:** [YouTube Presentation](https://youtu.be/5j9hTuH9cYI)   
 - 💻 **Live Power BI Dashboard:** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjJlMTZhNzktYjVlZC00OGM4LTg3NDEtMWQyNTU5ZjE0N2EzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-- 💼 **LinkedIn Post:** [LinkedIn Project Post](#)  
+- 💼 **LinkedIn Post:** [LinkedIn Project Post](https://www.linkedin.com/posts/krishnatanwars_hotel-sales-dashboard-in-power-bi-bi-project-activity-7392901726531510272-Ebj5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADYd6qIB8ad7Dw_i1eRhB3iXtglA1SKFQX0)  
 
 ---
 
